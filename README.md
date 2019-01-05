@@ -35,3 +35,13 @@ git submodule update
 
 ## 效果
 ![image](https://github.com/ffiirree/Capturer/blob/master/capturer.gif)
+
+--------------------------------------------------------------------------------
+Troy_Daniel 2019-01-05 09:38	Sat
+
+It seems good since it's opensource.
+However ,there are a few bugs there, or somewhere to imporvement, such as the support for multiple displayers, and destroying of the pastes.
+
+Well, the most important thing is that I shall add somehting shortcuts for the annotations, to improve experiences for Vimers.
+
+But, I'm busy recently. All the things mentioned above are to be done some days later.
